@@ -213,8 +213,8 @@ gui.estorage_controller.graph.energy_stored=Energy Stored: %sAE / %sAE
 gui.efabricator_pattern_bus.title=§9ECO - §eFD Smart Pattern Bus
 gui.efabricator_pattern_bus.inventory=Inventory
 
-gui.efabricator.total_crafted=Stats - Recipes Completed: %s
-gui.efabricator.total_crafted.update=Stats - Recipes Completed: %s, Crafting Speed: §a+%s/Tick§f
+gui.efabricator.total_crafted=Stats - Completed Recipes: %s
+gui.efabricator.total_crafted.update=Stats - Completed Recipes: %s, Speed: §a+%s/Tick§f
 gui.efabricator.button.upload_pattern=Upload Pattern to available §9Extendable Fabricator Subsystem§7 in the current network.
 gui.efabricator.queue.status=Queue: %s / %s
 gui.efabricator.max_energy_usage=MaxU: §b%s AE
